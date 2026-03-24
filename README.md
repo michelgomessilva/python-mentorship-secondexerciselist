@@ -179,7 +179,6 @@ During these exercises, students will practice:
 # 👨‍🏫 Mentorship
 
 Project created for the **Python Fundamentals Mentorship Program** led by:
-
 **Michel Silva**
 
 Squad Academy 🐍
